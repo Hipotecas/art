@@ -3,7 +3,6 @@ module.exports = {
   eslint: {
     dirs: ['src'],
   },
-  distDir: 'dist',
   reactStrictMode: true,
 
   // Uncoment to add domain whitelist
